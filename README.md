@@ -14,6 +14,8 @@ https://north-apricot-d91.notion.site/Anaconda-GPU-Jupyter-Notebook-CUDA-63f2945
 
 [Anaconda | The World’s Most Popular Data Science Platform](https://www.anaconda.com/)
 
+![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/0d376971-b325-47ad-9eb6-8a8bd8a4dd26/c332838f-df9f-4373-a345-5f05fb8752fe/Untitled.png)
+
 ---
 
 ## 2. **NVIDIA graphics drivers 설치**
