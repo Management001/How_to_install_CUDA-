@@ -2,9 +2,12 @@
 
 # Anaconda 에서 GPU 사용하기 // Jupyter Notebook CUDA
 
-그림이 보이지 않는 경우 NOTION에서 확인하세요!
+
+## 그림이 보이지 않는 경우 NOTION에서 확인하세요!
 
 https://north-apricot-d91.notion.site/Anaconda-GPU-Jupyter-Notebook-CUDA-63f2945b60b14fdb9306db42ac41f99f
+
+
 
 ---
 
@@ -14,7 +17,6 @@ https://north-apricot-d91.notion.site/Anaconda-GPU-Jupyter-Notebook-CUDA-63f2945
 
 [Anaconda | The World’s Most Popular Data Science Platform](https://www.anaconda.com/)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/0d376971-b325-47ad-9eb6-8a8bd8a4dd26/c332838f-df9f-4373-a345-5f05fb8752fe/Untitled.png)
 
 ---
 
@@ -26,6 +28,9 @@ https://north-apricot-d91.notion.site/Anaconda-GPU-Jupyter-Notebook-CUDA-63f2945
 > 
 
 [최신 공식 NVIDIA 드라이버 다운로드](https://www.nvidia.co.kr/Download/index.aspx?lang=kr)
+
+![Untitled](https://github.com/Management001/Anaconda-Jupyter-Notebook-GPU-CUDA-/assets/44454495/08324f37-3185-4c64-8ed8-4860b50f14fa)
+
 
 
 ---
@@ -39,10 +44,15 @@ https://north-apricot-d91.notion.site/Anaconda-GPU-Jupyter-Notebook-CUDA-63f2945
 
 [NVIDIA CUDA GPUs - Compute Capability](https://developer.nvidia.com/cuda-gpus)
 
+![Untitled (1)](https://github.com/Management001/Anaconda-Jupyter-Notebook-GPU-CUDA-/assets/44454495/809a8878-9053-495a-807b-3172695e73a0)
+
 
 ## 4. Supported CUDA Compute Capability versions for CUDA SDK version and Microarchitecture
 
 [CUDA](https://en.wikipedia.org/wiki/CUDA)
+
+![Untitled (2)](https://github.com/Management001/Anaconda-Jupyter-Notebook-GPU-CUDA-/assets/44454495/1f133734-e1fa-4105-beb0-d57da7892874)
+
 
 
 ---
@@ -56,9 +66,19 @@ https://north-apricot-d91.notion.site/Anaconda-GPU-Jupyter-Notebook-CUDA-63f2945
 
 [Files :: Anaconda.org](https://anaconda.org/anaconda/tensorflow-gpu/files)
 
+![Untitled (3)](https://github.com/Management001/Anaconda-Jupyter-Notebook-GPU-CUDA-/assets/44454495/ba5d10dc-3a72-4728-a124-0d4924928654)
+
+
+
+---
+
 ## 6. CUDA & cuDNN version [**테스트된 빌드 구성]** <중요>
 
 [Windows의 소스에서 빌드,Windows의 소스에서 빌드  |  TensorFlow](https://www.tensorflow.org/install/source_windows?hl=ko#gpu)
+
+![Untitled (4)](https://github.com/Management001/Anaconda-Jupyter-Notebook-GPU-CUDA-/assets/44454495/984f0235-ccd9-4b83-844c-e05001fc3f6d)
+
+
 
 ---
 
@@ -71,6 +91,8 @@ https://north-apricot-d91.notion.site/Anaconda-GPU-Jupyter-Notebook-CUDA-63f2945
 
 [Visual Studio 2019 재배포](https://learn.microsoft.com/ko-kr/visualstudio/releases/2019/redistribution#--download)
 
+
+
 ---
 
 ## 8. 호환 가능한 CUDA toolkit 설치
@@ -81,6 +103,9 @@ https://north-apricot-d91.notion.site/Anaconda-GPU-Jupyter-Notebook-CUDA-63f2945
 > 
 
 [CUDA Toolkit Archive](https://developer.nvidia.com/cuda-toolkit-archive)
+
+![Untitled (5)](https://github.com/Management001/Anaconda-Jupyter-Notebook-GPU-CUDA-/assets/44454495/e81b34c6-e7bf-42cd-b761-927649463ce7)
+
 
 
 ---
@@ -97,6 +122,11 @@ https://north-apricot-d91.notion.site/Anaconda-GPU-Jupyter-Notebook-CUDA-63f2945
 
 [NVIDIA cuDNN Archive](https://developer.nvidia.com/rdp/cudnn-archive)
 
+![Untitled (6)](https://github.com/Management001/Anaconda-Jupyter-Notebook-GPU-CUDA-/assets/44454495/345ce068-52ea-44f4-b7d2-749409a34c3c)
+
+![Untitled (7)](https://github.com/Management001/Anaconda-Jupyter-Notebook-GPU-CUDA-/assets/44454495/01b54428-a8ef-43c4-aa57-9c621dc4568b)
+
+
 
 ---
 
@@ -104,20 +134,36 @@ https://north-apricot-d91.notion.site/Anaconda-GPU-Jupyter-Notebook-CUDA-63f2945
 
 ### 1. 관리자 권한으로 **Anaconda Navigator 실행**하기.
 
+![Untitled (8)](https://github.com/Management001/Anaconda-Jupyter-Notebook-GPU-CUDA-/assets/44454495/6c338b3b-1796-458b-8803-cc2fd67c4221)
+
+
 
 ### 2. **환경 생성**을 위해 Environments 탭 누르고 Create 누르기.
+
+![Untitled (9)](https://github.com/Management001/Anaconda-Jupyter-Notebook-GPU-CUDA-/assets/44454495/34c09369-ddf9-4517-b0fa-4729fdf37c83)
+
 
 
 ### 3. Name, Packages 설정 및 Create 누르기. (**Packages는 텐서플로우의 테스트된 빌드 구성에서 지정된 파이썬 버전으로 지정**하기.)
 
+![Untitled (10)](https://github.com/Management001/Anaconda-Jupyter-Notebook-GPU-CUDA-/assets/44454495/95a93c0f-398d-47e7-afbf-0cbeed6998ec)
+
+
 
 ### 4. 생성한 환경을 터미널 환경으로 실행하기.
+
+![Untitled (11)](https://github.com/Management001/Anaconda-Jupyter-Notebook-GPU-CUDA-/assets/44454495/801b803f-227e-4093-bf79-c8d5a3862842)
+
+
 
 ### 5. python version 확인하기.
 
 ```python
 python --version
 ```
+
+![Untitled (12)](https://github.com/Management001/Anaconda-Jupyter-Notebook-GPU-CUDA-/assets/44454495/db5d47de-b640-447e-8fe4-6e01aa4408fe)
+
 
 
 ### 6. Anaconda 에서 tensorflow_gpu-2.6.0 버전 설치하기.
@@ -130,6 +176,10 @@ conda install -c anaconda tensorflow-gpu=2.6
 pip install -c tensorflow-gpu==2.6
 ```
 
+![Untitled (13)](https://github.com/Management001/Anaconda-Jupyter-Notebook-GPU-CUDA-/assets/44454495/4cd9854c-fbdb-4cce-bbb7-77ff2f4d6c50)
+
+
+
 ### 7. GPU 사용 확인하기.
 
 - 해당 명령문을 입력 및 실행하면 다음과 같은 내역이 나타나며, 이 때 자신이 사용하고 있는 그래픽카드에 대한 정보가 나타난다면 문제가 없음을 의미한다.
@@ -137,6 +187,10 @@ pip install -c tensorflow-gpu==2.6
 ```python
 python -c "import tensorflow as tf; print(tf.reduce_sum(tf.random.normal([1000, 1000])))"
 ```
+
+![Untitled (14)](https://github.com/Management001/Anaconda-Jupyter-Notebook-GPU-CUDA-/assets/44454495/c65996b2-cdea-4d84-acdb-82f4d7ce5a3a)
+
+
 
 ### 8. jupyter, matplotlib, seaborn, torch, torchvision, torchaudio를 자신의 버전에 맞게 설치하기.
 
@@ -150,7 +204,11 @@ pip install jupyter matplotlib seaborn
 pip install torch==1.12.1+cu113 torchvision==0.13.1+cu113 torchaudio==0.12.1 --extra-index-url https://download.pytorch.org/whl/cu113
 ```
 
+![Untitled (15)](https://github.com/Management001/Anaconda-Jupyter-Notebook-GPU-CUDA-/assets/44454495/566fa62a-65a8-46dc-9bb6-2568f5b0254c)
+
 [torch.cuda.is_available() False 해결](https://nanunzoey.tistory.com/entry/torchcudaisavailable-False-해결)
+
+
 
 ### 9. 주피터 노트북 접속하기.
 
@@ -158,8 +216,14 @@ pip install torch==1.12.1+cu113 torchvision==0.13.1+cu113 torchaudio==0.12.1 --e
 jupyter notebook
 ```
 
+![Untitled (16)](https://github.com/Management001/Anaconda-Jupyter-Notebook-GPU-CUDA-/assets/44454495/56ec1351-65eb-4ae9-9411-ccafead33034)
+
+
 
 ### 10. 파일 생성하기
+
+![Untitled (17)](https://github.com/Management001/Anaconda-Jupyter-Notebook-GPU-CUDA-/assets/44454495/702a50fd-9ccb-4a3e-8e72-35727abf3494)
+
 
 
 ### 11. tensorflow_gpu 및 cuda 확인하기
@@ -185,32 +249,11 @@ device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 print(device)
 ```
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/0d376971-b325-47ad-9eb6-8a8bd8a4dd26/c3a08240-701f-42c5-8d3b-1740bcb8ab22/Untitled.png)
+![Untitled (18)](https://github.com/Management001/Anaconda-Jupyter-Notebook-GPU-CUDA-/assets/44454495/c59839a0-3516-4ec1-9f80-35d6f9ff9d96)
+
+
 
 ---
 
 ---
 
-### Anaconda prompt 에서 처리하는 코드
-
-conda create -n tfgpu python=3.7
-
-conda activate tfgpu
-
-conda install -c anaconda tensorflow-gpu=2.6
-
-python -c "import tensorflow as tf; print(tf.reduce_sum(tf.random.normal([1000, 1000])))"
-
-pip install jupyter matplotlib seaborn
-
-pip install torch==1.12.1+cu113 torchvision==0.13.1+cu113 torchaudio==0.12.1 --extra-index-url https://download.pytorch.org/whl/cu113
-
-<동영상 참조>
-
-https://www.youtube.com/watch?v=M4urbN0fPyM&list=LL&index=2
-
----
-
-# 다양한 문제점…
-
-## 10. ****torch.cuda.is_available() 의 출력물이 False인 경우****
