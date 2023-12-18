@@ -2,6 +2,9 @@
 
 # Anaconda 에서 GPU 사용하기 // Jupyter Notebook CUDA
 
+그림이 보이지 않는 경우 NOTION에서 확인하세요!
+https://north-apricot-d91.notion.site/Anaconda-GPU-Jupyter-Notebook-CUDA-63f2945b60b14fdb9306db42ac41f99f
+
 ---
 
 ## 1. ****Anaconda 설치****
