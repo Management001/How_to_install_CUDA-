@@ -253,12 +253,3 @@ print(device)
 ![Untitled (18)](https://github.com/Management001/Anaconda-Jupyter-Notebook-GPU-CUDA-/assets/44454495/c59839a0-3516-4ec1-9f80-35d6f9ff9d96)
 
 
-# 로컬 GPU에서 CUDA 사용하는 방법
-
-![Untitled (18)](https://velog.io/@minuenergy/%EB%A1%9C%EC%BB%AC%EC%97%90%EC%84%9C-GPU-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
-
-
----
-
----
-
